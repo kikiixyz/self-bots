@@ -1,0 +1,2 @@
+# self-bots
+no info
